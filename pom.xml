@@ -13,7 +13,7 @@
 
     <groupId>io.github.lixhbs</groupId>
     <artifactId>basic-service</artifactId>
-    <version>1.0.2</version>
+    <version>1.0.3</version>
     <packaging>jar</packaging>
     <name>basic-service</name>
     <description>Demo project for Spring Boot</description>
